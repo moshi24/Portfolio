@@ -1,6 +1,6 @@
 
 .jumbotron {
-    background-image: url('/assets/img/workbench.jpg');
+    background-image: url('./img/workbench.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;
@@ -11,14 +11,23 @@ img {
     width: 100%;
     height: auto;
     vertical-align: middle;
-  }
+}
+
+.fab:hover{
+    color: lightskyblue;
+}
+
+.fas:hover{
+    color: lightskyblue;
+}
 
 #port {
     font-family: 'Fredericka the Great', cursive;
-    font-size: 40px;
+    font-size: 70px;
     margin: auto;
     text-align: center;
 }
+
 
 footer {
     padding: 2%;
