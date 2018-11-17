@@ -21,6 +21,11 @@ img {
     color: lightskyblue;
 }
 
+.album {
+    background-color: #999999;
+    
+}
+
 #port {
     font-family: 'Fredericka the Great', cursive;
     font-size: 70px;
