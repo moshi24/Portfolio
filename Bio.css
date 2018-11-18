@@ -1,0 +1,31 @@
+body {
+    background-image: url("./assets/img/notebook.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.navbar {
+    margin-bottom: 100px;
+}
+
+.main {
+    padding: 40px;
+    
+
+}
+
+.bg-white-see {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+footer {
+    position: relative;
+    margin-top: 20px;
+    top: 100px;
+    padding: 2%;
+}
