@@ -13,7 +13,7 @@ body {
 
 .main {
     padding: 40px;
-    
+
 
 }
 
@@ -26,6 +26,6 @@ body {
 footer {
     position: relative;
     margin-top: 20px;
-    top: 100px;
+    top: 50px;
     padding: 2%;
 }
