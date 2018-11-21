@@ -37,7 +37,7 @@ var config = {
     $("#firstName").val("");
     $("#lastName").val("");
     $("#email").val("");
-    message = $("#message").val("");
+    $("#message").val("");
   })
   
 
